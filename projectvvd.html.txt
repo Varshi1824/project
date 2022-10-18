@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    
+    <h2>dancing</h2>
+    <p>dancing is a passion:</p>
+    
+    <img style="width:500px" src="https://cdn.glitch.global/2c6a0ac1-5ca4-493c-863b-b1280a01e2f7/ahmad-odeh-UYtEI-acsuY-unsplash%20(1).jpg?v=1666089808362" alt="dancing">
+        
+     <p>* dance will always be my first love :</p>    
+    <p>* I had a passion for cooking, but i was a very lazy bird:</p>
+  
+  </body>
+</html>
